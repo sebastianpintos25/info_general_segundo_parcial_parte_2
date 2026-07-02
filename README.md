@@ -1,1 +1,3 @@
-# info_general_segundo_parcial_parte_2
+Sebastián Pintos
+Segundo Parcial - Informática General 
+Artes Multimediales - UNA
